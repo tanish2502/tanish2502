@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Tanish's github stats](https://github-readme-stats.vercel.app/api?username=tanish2502&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish2502)](https://github.com/tanish2502/github-readme-stats)

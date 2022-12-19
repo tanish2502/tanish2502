@@ -20,18 +20,32 @@ Here are some ideas to get you started:
   locatedIn: Bengaluru, India;
   education
   {
-    Self-Taught Developer;
+    Self-Taught Developer & still learning;
     PostGrad Diploma in Embedded System Design;
     Bachelor's in Instrumentation & Control;
   }
-  company: Nokia Networks
+  workingAt
+  {
+    company: As a 5G software developer at Nokia Networks' Mobile Networks Division since March'21;
+    skills
+    {
+      programmingLanguage: C++, Python;
+      testingTools: GoogleTest, pyTest;
+      CI/CD:  Git/Gerrit, Jenkins;
+     };
+     5G: implementing the Layer 3 protocol (RRC) in accordance with 3GPP specifications and fixing PR's;
+  };
   currentlyLearning
   {
     Blockchain Development;
     Advanced C++;
   }
+  having strong fundation in C Programming Language, LinuxOS;
 }
 ```
+You may read some of the BlockChain-related articles I've written on Quora here: :bulb: [Quora articles](https://www.quora.com/profile/Tanish-Gupta-206/answers)
+
+Here is where to locate me on linked in: :office: [LinkedIn](https://www.linkedin.com/in/gupta-tanish/)
 
 ![Tanish's github stats](https://github-readme-stats.vercel.app/api?username=tanish2502&count_private=true&show_icons=true&theme=radical&hide_rank=false&hide=prs)                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish2502)
 
@@ -42,6 +56,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45"/>
 </p>

@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 {
   name: Tanish Gupta;
   locatedIn: Bengaluru, India;
-  education
+  education:
   {
     Self-Taught Developer & still learning;
     PostGrad Diploma in Embedded System Design;
     Bachelor's in Instrumentation & Control;
   }
-  workingAt
+  workingAt:
   {
     company: As a 5G software developer at Nokia Networks' Mobile Networks Division since March'21;
-    skills
+    skills:
     {
       programmingLanguage: C++, Python;
       testingTools: GoogleTest, pyTest;
@@ -35,12 +35,13 @@ Here are some ideas to get you started:
      };
      5G: implementing the Layer 3 protocol (RRC) in accordance with 3GPP specifications and fixing PR's;
   };
-  currentlyLearning
+  currentlyLearning:
   {
     Blockchain Development;
     Advanced C++;
+    QT Framework;
   }
-  having strong fundation in C Programming Language, LinuxOS;
+  having strong foundation in C Programming Language, LinuxOS;
 }
 ```
 You may read some of the BlockChain-related articles I've written on Quora here: :bulb: [Quora articles](https://www.quora.com/profile/Tanish-Gupta-206/answers)

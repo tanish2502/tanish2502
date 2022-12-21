@@ -1,4 +1,4 @@
-### Hi there, I'm Tanish 👋
+### Hi there, I'm Tanish Gupta 👋
 
 <!--
 **tanish2502/tanish2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,7 +48,9 @@ You may read some of the BlockChain-related articles I've written on Quora here:
 
 Here is where to locate me on linked in: :office: [LinkedIn](https://www.linkedin.com/in/gupta-tanish/)
 
-![Tanish's github stats](https://github-readme-stats.vercel.app/api?username=tanish2502&count_private=true&show_icons=true&theme=radical&hide_rank=false&hide=prs)                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish2502)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish2502)
+
+![Tanish's github stats](https://github-readme-stats.vercel.app/api?username=tanish2502&count_private=true&show_icons=true&theme=white&hide_rank=false&hide=prs)
 
 <h2> 🚀 &nbsp;Some Tools and Languages I Have Used and Learned</h2>
 <p align="left">

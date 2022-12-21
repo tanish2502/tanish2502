@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   workingAt:
   {
     company: As a 5G software developer at Nokia Networks' Mobile Networks Division since March'21;
-    skills:
+    skillsUsing:
     {
       programmingLanguage: C++, Python;
       testingTools: GoogleTest, pyTest;
@@ -41,16 +41,27 @@ Here are some ideas to get you started:
     Advanced C++;
     QT Framework;
   }
+  skillsLearned:
+  {
+    programmingLanguage: C, C++, Solidity, Python, JavaScript;
+  }
   having strong foundation in C Programming Language, LinuxOS;
 }
 ```
 You may read some of the BlockChain-related articles I've written on Quora here: :bulb: [Quora articles](https://www.quora.com/profile/Tanish-Gupta-206/answers)
 
 Here is where to locate me on linked in: :office: [LinkedIn](https://www.linkedin.com/in/gupta-tanish/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish2502)
-
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish2502&count_private=true&layout=compact) 
 ![Tanish's github stats](https://github-readme-stats.vercel.app/api?username=tanish2502&count_private=true&show_icons=true&theme=white&hide_rank=false&hide=prs)
+-->
+
+<table>
+  <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=tanish2502&count_private=true&show_icons=true&theme=white&hide_rank=false&hide=prs"></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish2502&count_private=true&layout=compact"></td>
+  </tr>
+</table>
 
 <h2> 🚀 &nbsp;Some Tools and Languages I Have Used and Learned</h2>
 <p align="left">

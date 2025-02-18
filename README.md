@@ -37,15 +37,15 @@ Here are some ideas to get you started:
   };
   currentlyLearning:
   {
-    Blockchain Development;
-    Advanced C++;
-    QT Framework;
+    HPC;
+    CUDA, C++;
+    LLMs;
   }
   skillsLearned:
   {
     programmingLanguage: C, C++, Solidity, Python, JavaScript;
   }
-  having strong foundation in C Programming Language, LinuxOS;
+  having strong foundation in C,C++ Programming Language, LinuxOS;
 }
 ```
 You may read some of the BlockChain-related articles I've written on Quora here: :bulb: [Quora articles](https://www.quora.com/profile/Tanish-Gupta-206/answers)

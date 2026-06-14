@@ -16,40 +16,49 @@ Here are some ideas to get you started:
 -->
 ```yaml
 {
-  name: Tanish Gupta;
-  locatedIn: Bengaluru, India;
-  education:
-  {
-    Self-Taught Developer & still learning;
-    PostGrad Diploma in Embedded System Design;
-    Bachelor's in Instrumentation & Control;
-  }
-  workingAt:
-  {
-    company: As a 5G software developer at Nokia Networks' Mobile Networks Division since March'21;
-    skillsUsing:
-    {
-      programmingLanguage: C++, Python;
-      testingTools: GoogleTest, pyTest;
-      CI/CD:  Git/Gerrit, Jenkins;
-     };
-     5G: implementing the Layer 3 protocol (RRC) in accordance with 3GPP specifications and fixing PR's;
-  };
-  currentlyLearning:
-  {
-    HPC;
-    CUDA, C++;
-    LLMs;
-  }
-  skillsLearned:
-  {
-    programmingLanguage: C, C++, Solidity, Python, JavaScript;
-  }
-  having strong foundation in C,C++ Programming Language, LinuxOS;
+  name: Tanish Gupta,
+  title: "GPU Performance Engineer | CUDA & AI Inference Optimization",
+  locatedIn: "Noida, India",
+  
+  about: "C++/CUDA developer with 5+ years building high-performance 
+  systems, currently focused on GPU kernel optimization, AI inference 
+  acceleration, and parallel computing.",
+
+  workingAt: {
+    company: "AI Integration Developer II @ Fujifilm Sonosite",
+    focus: "ONNX Runtime profiling, GPU acceleration evaluation, 
+            AI inference pipeline optimization",
+    languages: ["C++", "CUDA", "Python"]
+  },
+
+  background: {
+    previously: "5G UE Simulator development @ Nokia (4.5 yrs) - 
+                  high-performance C++ systems, RRC Layer 3 protocol",
+    education: ["PG Diploma - Embedded Systems Design", 
+                 "B.Tech - Instrumentation & Control"],
+    certifications: ["NVIDIA - Accelerated Computing in CUDA C/C++",
+                      "NPTEL/IIT KGP - GPU Architectures & Programming"]
+  },
+
+  currentFocus: {
+    building: "CUDA kernel optimization case studies (memory coalescing, 
+               shared memory tiling, profiler-guided optimization)",
+    tools: ["Nsight Compute/Systems", "ONNX Runtime", "TensorRT"],
+    nextUp: "ONNX -> GPU inference benchmarking project"
+  },
+
+  pinnedProjects: [
+    "cuda-kernel-optimization-lab - Before/after profiler analysis of 
+     image processing kernels (Sobel, Gaussian, Histogram)",
+    "[upcoming] onnx-inference-benchmarks"
+  ],
+
+  coreSkills: ["C++17", "CUDA", "Python", "GPU Architecture", 
+                "Memory Optimization", "Performance Profiling"],
+
+  openTo: "Remote/Onsite GPU/CUDA/AI Inference roles (contract or full-time)"
 }
 ```
-You may read some of the BlockChain-related articles I've written on Quora here: :bulb: [Quora articles](https://www.quora.com/profile/Tanish-Gupta-206/answers)
-
 Here is where to locate me on linked in: :office: [LinkedIn](https://www.linkedin.com/in/gupta-tanish/)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish2502&count_private=true&layout=compact) 
@@ -58,7 +67,6 @@ Here is where to locate me on linked in: :office: [LinkedIn](https://www.linkedi
 
 <table>
   <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=tanish2502&count_private=true&show_icons=true&theme=white&hide_rank=false&hide=prs"></td>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish2502&count_private=true&layout=compact"></td>
   </tr>
 </table>
